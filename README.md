@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @rosenspiridonov
-- 👀 I’m interested in web apps development using ASP.NET and JS
-- 🌱 I’m currently studying .NET and JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
-  -- Email: rspiridonov3@gmail.com
+## 👋 Hello, I’m Rosen Spiridonov (@rosenspiridonov)
 
-<!---
-rosenspiridonov/rosenspiridonov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👀 Interests
+I’m primarily working with **.NET** for web application development, but I’m also passionate about exploring other technologies like **JavaScript**, **React**, **Docker**, **Python** and **WordPress**. I enjoy diving into new tools and frameworks to expand my skill set and stay updated with the latest trends in software development.
+
+### 💞️ Collaboration
+I’m open to collaborating on projects involving **.NET** as well as those that incorporate **JavaScript**, **React**, **Docker**, or **Python**. If you’re working on something innovative, let’s connect!
+
+### 📫 Get in Touch
+- **Email**: [rspiridonov.work@gmail.com](mailto:rspiridonov.work@gmail.com)
